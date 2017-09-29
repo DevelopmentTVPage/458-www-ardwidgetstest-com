@@ -1,0 +1,15 @@
+{
+    "title": "Auto Refresh Data: Widgets Test",
+    "baseURL": "https:\/\/www.ardwidgetstest.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ardwidgetstest.com"
+    }
+}
