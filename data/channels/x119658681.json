@@ -1,0 +1,23 @@
+{
+    "title": "CAS1_C1",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1506726945",
+    "date_modified": "1506729472",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "119658681",
+    "loginId": "1759037",
+    "entityType": "3",
+    "titleTextEncoded": "CAS-C1",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
