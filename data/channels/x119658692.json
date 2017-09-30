@@ -1,0 +1,23 @@
+{
+    "title": "Copy SB1_C1",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1506733746",
+    "date_modified": "1506733764",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "119658692",
+    "loginId": "1759037",
+    "entityType": "3",
+    "titleTextEncoded": "Copy-SB1-C1",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
