@@ -1,9 +1,9 @@
 {
-    "title": "NAPOLEONIC SIEGE BATTLES - Holdfast: Nations at War Gameplay",
+    "title": "CAS_C1_V5",
     "description": "NAPOLEONIC SIEGE BATTLES - Holdfast: Nations at War Gameplay - Today we are checking out siege battles for Holdfast: Nations at war! Enjoy the video :D\n\nJOIN MY DISCORD SERVER: https:\/\/discord.gg\/JjR7UR3\n\nIf you enjoyed the video don't forget to Like and Leave a comment :D\n\n-----------------------------------------PA Merchandise---------------------------------------------\n\nBUYING A SHIRT WILL SUPPORT A CHARITY!\n\nRepresent the Knight's of Apollo!\nBuy a T-shirt Here: https:\/\/teespring.com\/stores\/pixelated-apollo\n\n----------------------------------How You Can Support Me! -----------------------------------\n\n- Like, share and leave a comment :D\n- Turn OFF adblock or whitelist my channel\n- Send me a GREAT battle Replay: pixelatedapollo@gmail.com\n- Purchase a Server at: https:\/\/oasis-hosting.net\/ and use this discount code - PA2017 \n\n------------------------------------------Connect With Me!-----------------------------------------\n\n- Email: pixelatedapollo@gmail.com\n- Twitter: https:\/\/twitter.com\/PixelatedApollo\n- Steam Group:  http:\/\/steamcommunity.com\/groups\/apollosknights\n- Twitch: http:\/\/www.twitch.tv\/pixelatedapollo",
     "referenceId": "v1gkG_o0mjM",
     "date_created": "1505491207",
-    "date_modified": "1506708152",
+    "date_modified": "1506725534",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -15,7 +15,7 @@
     "id": "119657065",
     "loginId": "1759037",
     "entityType": "1",
-    "titleTextEncoded": "NAPOLEONIC-SIEGE-BATTLES-Holdfast-Nations-at-War-Gameplay",
+    "titleTextEncoded": "CAS-C1-V5",
     "category": "",
     "tvp_profiles": null,
     "tvp_profiles_manual": "",
@@ -33,7 +33,9 @@
         "author": "Pixelated Apollo",
         "mediaDuration": 1774,
         "prettyDuration": "00:29:34",
-        "views": "69023"
+        "views": "69023",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
