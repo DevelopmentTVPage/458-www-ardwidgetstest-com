@@ -1,0 +1,23 @@
+{
+    "title": "CAS6_C6",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1506735070",
+    "date_modified": "1506735081",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "119658718",
+    "loginId": "1759037",
+    "entityType": "3",
+    "titleTextEncoded": "CAS-C",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
