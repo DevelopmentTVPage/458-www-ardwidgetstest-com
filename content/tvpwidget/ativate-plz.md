@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "Ativate plz",
     "name": "ativate-plz",
-    "channelId": "119658716",
+    "channelId": "119658717",
     "layout": "bootstrap"
 }
